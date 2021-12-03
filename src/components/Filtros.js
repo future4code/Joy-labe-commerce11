@@ -8,7 +8,7 @@ const ContainerFiltro = styled.div`
     padding-left: 10px;    
     margin-left: 10px;
     width: 20vw;
-    height: 100vh;
+    height: 100%;
     border: 1px solid black;
     
 `

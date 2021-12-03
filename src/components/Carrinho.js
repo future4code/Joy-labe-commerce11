@@ -5,7 +5,7 @@ const ContainerCarrinho = styled.div`
     display: flex;
     margin-right: 10px;
     width: 20vw;
-    height: 100vh;
+    height: 100%;
     border: 1px solid black;
     justify-content: center;
 
